@@ -1,5 +1,23 @@
+@import url(http://fonts.googleapis.com/css?family=Amatic+SC);
+@import url(http://fonts.googleapis.com/css?family=Amatic+SC|Oxygen);
 
+a {
+  font-family: 'Oxygen', sans-serif;
+  background-color: #FFCC66;
+  border-radius: 25px;
+  width: 100px;
+  height: 150px;
+  text-align: center;
+}
 
 h1{
   
+}
+
+p{
+  font-family: 'Oxygen', sans-serif;
+  font-size: 20px;
+  color: black;
+  background: rgba(255,255,255,0.65);
+  border-radius: 25px;
 }
